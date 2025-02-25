@@ -64,6 +64,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.sources-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
 @media only screen and (max-width: 1042px) {
   .wrapper {
     width: 80%;
